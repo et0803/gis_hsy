@@ -65,4 +65,4 @@ tm_shape(london_borough_33_OGR)+
   tm_shape(HSM_geocoord) +
   tm_dots(col = c("#f24a72"),
           auto.palette.mapping = FALSE,
-          size = 0.25)
+          size = 0.125)
